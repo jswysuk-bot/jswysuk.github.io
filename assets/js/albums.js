@@ -13,6 +13,13 @@ window.FAMILY_ALBUM_LABELS = {
 window.FAMILY_ALBUMS = {
 	ddal: [
 		{
+			full: 'images/ddal/cherry-001.png',
+			thumb: 'images/ddal/cherry-001.png',
+			title: '벚꽃',
+			caption: '딸',
+			alt: '딸 - 벚꽃 아래',
+		},
+		{
 			full: 'images/ddal/001.JPG',
 			thumb: 'images/ddal/001.JPG',
 			title: '001',
@@ -364,6 +371,13 @@ window.FAMILY_ALBUMS = {
 		}
 	],
 	adeul: [
+		{
+			full: 'images/adeul/military-001.png',
+			thumb: 'images/adeul/military-001.png',
+			title: '입대',
+			caption: '아들',
+			alt: '아들 - 군복',
+		},
 		{
 			full: 'images/adeul/263.JPG',
 			thumb: 'images/adeul/263.JPG',
